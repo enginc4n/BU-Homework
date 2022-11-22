@@ -1,4 +1,4 @@
-# BU-Homeworks
+# BU-Homework
 BU C# Homework
 
 1)Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin. Cümledeki toplam kelime ve harf sayısını console'a yazdırın.
