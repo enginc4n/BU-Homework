@@ -12,3 +12,5 @@ BU C# Homework
 5)Bir konsol uygulamasında kullanıcıdan bir sayı girmesini isteyin(n). Sonrasında girilen sayının asal olup olmadığını ekrana yazdırın.
 
 6)Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n). Sonrasında kullanıcıdan n adet kelime girmesi isteyin. Kullanıcının girişini yaptığı kelimeleri sondan başa doğru consol'a yazdırın.
+
+7)Bir konsol uygulamasından kullanıcıdan iki sayı alın (n,m).Sonrasında bu iki sayının bir birine bölümünden kalanı ekrana yazdırın.
